@@ -1,0 +1,218 @@
+* {
+    margin: 0;
+    padding:0;
+  }
+  
+  .content {
+     
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.5)),
+      url(images.jpg);
+    background-size: cover;
+  }
+
+  /* .content{
+    margin-top: 35px;
+    margin-left: 20px;
+    margin-bottom: 10rem;
+  } */
+  
+  .content h1{
+    font-size: 50px;
+    color: mintcream;
+    border-color: skyblue;
+    border: 2px;
+    font-weight: bolder;
+  
+  } 
+
+  
+  .nav1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+  }
+
+  .hero{
+    margin-left: 1%;
+    height: 60px;
+    width: 300px;
+    background-image: 
+      url(smartatt\ \(2\).png);
+    background-size: cover;
+    margin-top: 2%;
+  }
+  
+  .link{
+    /* background-color: #2a7ec2; */
+    color: mintcream;
+    font-size: 25px;
+    margin-right: 50px;
+    font-weight: bolder;
+    text-decoration: none;
+  padding: 5px 6px;
+  border-color: rgb(238, 11, 200);
+  cursor: pointer;
+  border-radius: 9px;
+    text-align: center;
+    max-width: 250px;
+    margin-top: 15px;
+    border: 2px solid #fff;
+  
+  }
+  
+  .contentd1{
+    margin-top: 10rem;
+    margin-left: 30rem;
+  }
+  .contentd2 h1{
+    font-size: 150px;
+    font-weight: bolder;
+    text-shadow: 4px 3px 1px rgb(247, 232, 218);
+  }
+  
+  .contentd2 p{
+    color: antiquewhite;
+    margin-top: 40px;
+    font-size: 23px;
+    margin-left: 15px;
+    margin-top: 8rem;
+    margin-left: 9rem;
+  }
+  
+  .contentd3{
+    /* display: flex;
+    justify-content: space-between; */
+    margin-top: 60px;
+    font-size: 25px;
+    color: white;
+    margin-left: 70px;
+    margin-right: 43rem;
+    
+  }
+  
+  .tag{
+    color: mintcream;
+    font-size: 25px;
+    /* background-color: #2a7ec2; */
+    font-weight: bolder;
+    text-decoration: none;
+    padding: 5px 6px;
+    border-color: rgb(238, 11, 200);
+    cursor: pointer;
+    border-radius: 9px;
+    text-align: center;
+    max-width: 250px;
+    border: 2px solid #fff;
+    margin-left: 10rem;
+  }
+  
+   .content {
+   align-content: center;
+   margin: 0;
+   width: 100vw;
+   height: 100vh;
+  
+  }
+  
+  /*.content h1 {
+    font-size: 40px;
+    color: mintcream;
+    border-color: skyblue;
+    border: 2px;
+    font-weight: bolder;
+    height: 150px;
+   
+  }
+  h2 {
+    font-size: 15.5px;
+    color: rgb(255, 255, 255);
+    font-weight: normal;
+    margin-bottom: 40px;
+    letter-spacing: 0.5px;
+  }
+  .nav1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .nav1 a {
+    color: aliceblue;
+    font-size: 25px;
+    margin-right: 50px;
+    font-weight: bolder;
+    text-decoration: none;
+    padding: 5px 6px;
+    cursor: pointer;
+    border-radius: 17px;
+    text-align: center;
+    max-width: 250px;
+    margin-top: 15px;
+    border: 2px solid #fff;
+  }
+  
+  .contentd1 {
+    margin-top: 150px;
+    margin-left: 550px;
+  }
+  .contentd2 h1 {
+    font-size: 70px;
+    font-weight: bolder;
+    align-items: center;
+    margin-left: 2orem;
+  }
+  
+  .contentd2 p {
+    color: antiquewhite;
+    margin-top: 10px;
+    font-size: 23px;
+    margin-left: 15px;
+  }
+  
+  .contentd3 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 55px;
+    font-size: 25px;
+    color: white;
+    margin-left: 35px;
+    margin-right: 43rem;
+  }
+  
+  .contentd3 a {
+    color: white;
+    font-weight: bolder;
+    text-decoration: none;
+    background-color: rgb(10, 154, 238);
+    padding: 5px 6px;
+    border-color: rgb(238, 11, 200);
+    cursor: pointer;
+    border-radius: 7px;
+    text-align: center;
+    max-width: 250px;
+    border: 2px solid #fff;
+  }
+  .tag {
+    color: aliceblue;
+  }
+  a {
+    text-decoration: none;
+  }
+  .getstarted {
+    background-color:transparent;
+    font-size: 25px;
+    margin-right: 50px;
+    font-weight: bolder;
+    text-decoration: none;
+    padding: 5px 6px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 89px;
+    cursor: pointer;
+    max-width: 250px;
+    margin-top: 15px;
+    border: 2px solid rgb(251, 250, 250);
+    width: 70%;
+  }
+   */
