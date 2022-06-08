@@ -10,20 +10,29 @@ const Contact = () => {
             <div className="div002">
                 <div className="div003">
                     <h1>Contact Admin</h1>
-                        <label for="email">Email</label><br />
-                        <input type="email" /><br />
-                        <label for="">Subject!</label><br />
-                        <input type="text" /><br />
-                        <label for="">Description</label><br />
-                    
-                        <textarea name="" id="" cols="30" rows="5"></textarea>
+                    <form action="" className="form">
+                        <div className="pee">
+                          <label for="email" className="lbl">Email</label><br />
+                        </div>
+                          <input type="email" className="ipn" /><br />
+                       
+                        <div className="dee">
+                          <label for="" className="lbl">Subject!</label><br />
+                          <input type=""className="ipn" /><br />
+                        </div>
+                        <div className="mee">
+                          <label for="" className="lbl">Description</label><br />
+                          <textarea name="" id="" cols="60" rows="8"></textarea>
+                        </div>
+                    </form>
                 </div>
+
                 <div className="div004"> 
-                    <Link to="/login"><span>Submit</span></Link>
-                    <Link to="/contact"><span>Cancel</span></Link>
+                    <Link className="link" to="/LoginPage">Submit</Link>
+                    <Link className="link" to="/contact">Cancel</Link>
                 </div>
                 <div>
-
+                    
                 </div>
             </div>
        </div>

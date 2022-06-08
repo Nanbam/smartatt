@@ -15,7 +15,7 @@ const Verified = () => {
 
                        <div>
                         <button type="login" id="btn">
-                            <Link className="veri" to="/login">Login</Link>
+                            <Link className="tag" to="/LoginPage ">Login</Link>
                             
                             </button>
                       </div> 

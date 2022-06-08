@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom"
+import './otp.css'
 
 const Otp = () => {
     return (
@@ -25,7 +26,7 @@ const Otp = () => {
                              </div>  
                              <div>
                                 <button type="summit" id="btn">
-                                    <Link className="op" to="/verified">Summit</Link>
+                                    <Link className="tag" to="/verified">Summit</Link>
                                     </button>
                               </div> 
                          

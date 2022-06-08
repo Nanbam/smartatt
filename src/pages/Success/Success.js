@@ -10,7 +10,7 @@ const LoginSuccess = () => {
         </div>
             <div>
                 <h1> Logged In!</h1>
-                   <h3>Welcome! You have 06:00 hours left to work today </h3>
+                   <h3>Congratulations! You have successfully logged in </h3>
 
                        <div>
                         <button type="home" id="btn">
@@ -22,4 +22,4 @@ const LoginSuccess = () => {
     )
 } 
 
-export default LoginSuccess
+export default LoginSuccess;
